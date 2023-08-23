@@ -1,4 +1,4 @@
-#**Problem Statment**
+# **Problem Statment**
 
 The field of HR Analytics plays a crucial role in deciphering the vast amount of organizational data and extracting meaningful insights. By harnessing the power of data analysis, HR Analytics enables the HR Department to identify and comprehend significant people-related trends within the organization. This, in turn, empowers HR professionals and people managers to make informed decisions and take proactive measures to ensure the effective and profitable functioning of the organization.
 
@@ -10,38 +10,73 @@ This comprehensive analysis will equip organizations with valuable insights, all
 
 # **About the Data**
 This IBM data collection was discovered on Kaggle and is openly accessible. There are 35 variables and 1,470 employee records. On the internet, projects involving HR analytics are fairly common with this data collection. The purpose of this data collection is to develop a model to forecast employees who are likely to churn based on the information about these 1,470 employees and the following characteristics:
+
 *Age :* Age in years of the employee
+
 *Attrition:* People who people leave
+
 *BusinessTravel :* How often an employee embark on a job related travel
+
 *DailyRate :* Daily rate at which an employee is paid
+
 *Department :* Department where the employee works
+
 *DistanceFromHome :* Distance an employee travels from home to work
+
 *Education :* Level of education of the employee
+
 *EducationField :* What field the employee studied in school
+
 *EmployeeCount :* Count of employee
+
 *EmployeeNumber :* EMployee number
+
 *EnvironmentSatisfaction :* Employee environment satisfaction
+
 *Gender :* Gender of the employee
+
 *HourlyRate :* Hourly rate of pay of the employee
+
 *JobInvolvement :* Employee job involvement ratings
+
 *JobLevel :* Employee Job level
+
 *JobRole :* Employee Job role
+
 *JobSatisfaction :* Employee Job Staisfaction
+
 *MaritalStatus :* Employee Marital Status
+
 *MonthlyIncome :* Employee monthly income
+
 *MonthlyRate :* Employee Monthly rate
+
 *NumCompaniesWorked :* Number of companies worked
+
 *Over18 :* Age over 18 years
+
 *OverTime :* Work overtime
+
 *PercentSalaryHike :* Salary increment in Percentages
+
 *PerformanceRating :* Performance rating
+
 *RelationshipSatisfaction :* Relationship satisfaction
+
 *StandardHours :* Employee standard hours worked
+
 *StockOptionLevel:* Stock options level
+
 *TotalWorkingYears:* Total working hours
+
 *TrainingTimesLastYear :* Total working years
+
 *WorkLifeBalance :* Work life balance rating
+
 *YearsAtCompany :* Years at the company
+
 *YearsInCurrentRole :*  Years in current role
+
 *YearsSinceLastPromotion :* Years since last promotion
+
 *YearsWithCurrManager :* Years with current manager
