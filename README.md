@@ -81,3 +81,23 @@ This IBM data collection was discovered on Kaggle and is openly accessible. Ther
 *YearsSinceLastPromotion :* Years since last promotion
 
 *YearsWithCurrManager :* Years with current manager
+
+# **Analytical Summary**
+
+**The analysis of the HR dataset revealed several key insights regarding employee attrition and related factors. The dataset contained information on various employee characteristics, such as age, job role, marital status, job satisfaction, and department. Here is a summary of the findings:**
+
+1) Attrition Rate: The stacked bar graph indicated that 16.1% of employees chose to leave the company, while 83.9% decided to stay, highlighting a significant contrast in employee preferences.
+
+2) Gender Distribution: The donut chart showed that males constituted 60% of the workforce, while females made up the remaining 40%, illustrating a notable male majority within the organization.
+
+3) Tenure and Monthly Income: The line graph revealed a positive correlation between employee tenure and monthly income, indicating that longer-serving employees tend to earn higher incomes.
+
+4) Age and Attrition: The histogram analysis highlighted that the age range of 25 to 35 exhibited a higher attrition rate, while attrition declined notably beyond the age of 40, suggesting a period of stability and reduced turnover after reaching 40 years of age.
+
+5) Marital Status Distribution: The pie chart demonstrated that 45.8% of employees were married, 32% were single, and 22.2% were divorced, providing insights into the organization's marital demographics.
+
+6) Marital Status and Attrition: The histogram analysis revealed distinct attrition patterns based on marital status. Singles had the highest attrition rate, followed by married individuals, while divorced individuals displayed the lowest attrition rate.
+
+7) Job Satisfaction and Attrition: The bar graph indicated that employees with a 2-star job satisfaction rating had the lowest attrition, while those with 1 and 3-star ratings experienced the highest attrition rates. This finding emphasized the importance of job satisfaction in reducing voluntary departures.
+
+8) Department-wise Attrition: The bar chart identified that the Research & Development Department had the highest attrition rate, followed by the Sales and HR Departments. This finding suggested a need for further investigation into the reasons behind the high attrition rates in these departments.
