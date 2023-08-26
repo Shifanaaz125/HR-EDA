@@ -103,4 +103,13 @@ This IBM data collection was discovered on Kaggle and is openly accessible. Ther
 8) Department-wise Attrition: The bar chart identified that the Research & Development Department had the highest attrition rate, followed by the Sales and HR Departments. This finding suggested a need for further investigation into the reasons behind the high attrition rates in these departments.
  
 
-***These insights provide valuable information for organizations aiming to address attrition challenges and implement targeted strategies to improve employee retention and satisfaction. By considering factors such as job satisfaction, age demographics, and department-specific attrition rates, organizations can take proactive measures to enhance employee engagement, productivity, and overall organizational success.***
+**These insights provide valuable information for organizations aiming to address attrition challenges and implement targeted strategies to improve employee retention and satisfaction. By considering factors such as job satisfaction, age demographics, and department-specific attrition rates, organizations can take proactive measures to enhance employee engagement, productivity, and overall organizational success.**
+
+# Request for Feedback
+Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
+
+1. Data preprocessing: Did I miss any critical steps?
+2. Correct Method: Is the chosen analytical approach appropriate for this problem?
+3. Clarity: Is my explanation clear and easy to follow?
+   
+Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
