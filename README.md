@@ -1,4 +1,8 @@
-#
+# Attrition Analytics
+
+![image](https://github.com/Shifanaaz125/HR-EDA/assets/120267469/17088f19-cf22-4cf0-b223-9a654e33cce9)
+
+
 # **Problem Statment**
 
 The field of HR Analytics plays a crucial role in deciphering the vast amount of organizational data and extracting meaningful insights. By harnessing the power of data analysis, HR Analytics enables the HR Department to identify and comprehend significant people-related trends within the organization. This, in turn, empowers HR professionals and people managers to make informed decisions and take proactive measures to ensure the effective and profitable functioning of the organization.
